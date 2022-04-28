@@ -31,7 +31,7 @@
             <button onclick="display('0')">0</button>
             <button onclick="Calculate()"class="equal">=</button>
             
-        </div>   
+        </div>  
 
     </div>
     <script>
